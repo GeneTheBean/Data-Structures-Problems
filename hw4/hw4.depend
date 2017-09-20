@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449502426 source:/home/bean/Documents/C++ Projects/hw4/main.cpp
+	<iostream>
+	<fstream>
+	<map>
+

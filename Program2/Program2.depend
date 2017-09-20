@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1461273952 source:/home/bean/Documents/C++_Projects/CISC_3130/Program2/main.cpp
+	<iostream>
+	<stdlib.h>
+	"ScanlineRasterizer.h"
+
+1461293188 /home/bean/Documents/C++_Projects/CISC_3130/Program2/include/ScanlineRasterizer.h
+	<string>
+	<vector>
+
+1461292412 source:/home/bean/Documents/C++_Projects/CISC_3130/Program2/src/ScanlineRasterizer.cpp
+	"ScanlineRasterizer.h"
+	"Edge.h"
+	<fstream>
+	<string>
+	<iostream>
+	<vector>
+	"Vertex.h"
+	<algorithm>
+
+1461291866 source:/home/bean/Documents/C++_Projects/CISC_3130/Program2/src/Edge.cpp
+	"Edge.h"
+
+1461292115 /home/bean/Documents/C++_Projects/CISC_3130/Program2/include/Edge.h
+	"Vertex.h"
+	"Equation.h"
+	<iostream>
+
+1461292020 /home/bean/Documents/C++_Projects/CISC_3130/Program2/include/Vertex.h
+
+1461292041 source:/home/bean/Documents/C++_Projects/CISC_3130/Program2/src/Vertex.cpp
+	"Vertex.h"
+	<iostream>
+
+1461293053 source:/home/bean/Documents/C++_Projects/CISC_3130/Program2/src/Equation.cpp
+	"Equation.h"
+
+1461293070 /home/bean/Documents/C++_Projects/CISC_3130/Program2/include/Equation.h
+	"Vertex.h"
+

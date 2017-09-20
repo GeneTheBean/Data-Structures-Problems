@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1445716634 source:/home/bean/Documents/C++ Projects/homework2/main.cpp
+	<iostream>
+	"Stack.h"
+	"Stack_A.h"
+
+1445875439 /home/bean/Documents/C++ Projects/homework2/include/Stack.h
+	<vector>
+
+1445887661 /home/bean/Documents/C++ Projects/homework2/include/Stack_A.h
+
+1445716634 source:/home/bean/Documents/C++_Projects/CISC_3130/homework2/main.cpp
+	<iostream>
+	"Stack.h"
+	"Stack_A.h"
+
+1445875438 /home/bean/Documents/C++_Projects/CISC_3130/homework2/include/Stack.h
+	<vector>
+
+1445887660 /home/bean/Documents/C++_Projects/CISC_3130/homework2/include/Stack_A.h
+

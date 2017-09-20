@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1447113424 source:/home/bean/Documents/C++ Projects/Queue/main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<stdlib.h>
+	<rSort.h>
+	<Queue.h>
+	"d_sort.h"
+
+1447048483 /home/bean/Documents/C++ Projects/Queue/include/rSort.h
+	<vector>
+	<Queue.h>
+
+1447106448 /home/bean/Documents/C++ Projects/Queue/include/Queue.h
+
+1447107775 /home/bean/Documents/C++ Projects/Queue/include/d_sort.h
+	<vector>
+	<Queue.h>
+	<string>
+	"d_heap.h"
+
+1447087783 /home/bean/Documents/C++ Projects/Queue/include/d_heap.h
+	<vector>
+	<functional>
+
+1447113999 source:/home/bean/Documents/C++ Projects/RadixSort/main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<stdlib.h>
+	<rSort.h>
+	<Queue.h>
+	"d_sort.h"
+
+1447048483 /home/bean/Documents/C++ Projects/RadixSort/include/rSort.h
+	<vector>
+	<Queue.h>
+
+1447106448 /home/bean/Documents/C++ Projects/RadixSort/include/Queue.h
+
+1447107775 /home/bean/Documents/C++ Projects/RadixSort/include/d_sort.h
+	<vector>
+	<Queue.h>
+	<string>
+	"d_heap.h"
+
+1447087783 /home/bean/Documents/C++ Projects/RadixSort/include/d_heap.h
+	<vector>
+	<functional>
+
+1447113998 source:/home/bean/Documents/C++_Projects/CISC_3130/RadixSort/main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<stdlib.h>
+	<rSort.h>
+	<Queue.h>
+	"d_sort.h"
+
+1447106448 /home/bean/Documents/C++_Projects/CISC_3130/RadixSort/include/Queue.h
+
+1447107774 /home/bean/Documents/C++_Projects/CISC_3130/RadixSort/include/d_sort.h
+	<vector>
+	<Queue.h>
+	<string>
+	"d_heap.h"
+
+1447087782 /home/bean/Documents/C++_Projects/CISC_3130/RadixSort/include/d_heap.h
+	<vector>
+	<functional>
+

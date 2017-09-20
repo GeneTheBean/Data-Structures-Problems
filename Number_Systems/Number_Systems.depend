@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1450145361 source:/home/bean/Documents/C++ Projects/Number_Systems/main.cpp
+	<iostream>
+	<string>
+
+1441394962 source:/home/bean/Documents/C++ Projects/Number_Systems/src/biConverter.cpp
+	"biConverter.h"
+
+1441221281 /home/bean/Documents/C++ Projects/Number_Systems/include/biConverter.h
+
+1441396722 source:/home/bean/Documents/C++ Projects/Number_Systems/src/biToDec.cpp
+	"biToDec.h"
+	<string>
+
+1441396722 /home/bean/Documents/C++ Projects/Number_Systems/include/biToDec.h
+	<string>
+

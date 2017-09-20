@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1449468371 source:/home/bean/Documents/C++ Projects/Maps/main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	<string>
+

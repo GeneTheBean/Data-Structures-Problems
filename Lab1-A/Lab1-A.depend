@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1443332074 source:/home/bean/Documents/C++ Projects/Lab1-A/main.cpp
+	<iostream>
+	<Vector.h>
+
+1443332074 /home/bean/Documents/C++ Projects/Lab1-A/include/Vector.h
+	<iostream>
+

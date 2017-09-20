@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1449468833 source:/home/bean/Documents/C++ Projects/PairFrequency/main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	<string>
+
+1455822377 source:/home/bean/Documents/C++_Projects/PairFrequency/main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	<string>
+
